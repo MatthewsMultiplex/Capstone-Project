@@ -1,4 +1,4 @@
-# Capstone-Project
+# Capstone-Project - Small Remote Controlled Boat
 
 This project is tasked with making a small remote controlled fully electric boat capable of supporting 60lbs of additional weight to the on board components. Our current iteration is a Cattamaran style boat with a load of 130 Lbs
 
